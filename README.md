@@ -1,3 +1,6 @@
+# React-Redux Todo
+A todo list app built as a project to learn React with Redux.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
